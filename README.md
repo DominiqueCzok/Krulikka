@@ -1,22 +1,8 @@
 ### Hi, it's Dominique 👹
+🦇 video Games, Crafting & the meaning of life
 
-    🦇 video Games, Crafting & the meaning of life
-    👾  becoming something cool at [Coding Bootcamps EU](https://github.com/coding-bootcamps-eu)
-    🐞 stay hydrated & never forget your SPF
-    🫖 earl grey
+👾  becoming something cool at [Coding Bootcamps EU](https://github.com/coding-bootcamps-eu)
 
+🐞 stay hydrated & never forget your SPF
 
-<!--
-**Krulikka/Krulikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🦇 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🫖 earl grey
